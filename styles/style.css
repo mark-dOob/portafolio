@@ -105,7 +105,7 @@ body {
 }
 
 .footer {
-    background-color: #22d4fd var(--color-terciario);
+    background-color: var(--color-terciario);
     padding: 24px;
     color: var(--color-primario);
     text-align: center;
